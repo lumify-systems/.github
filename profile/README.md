@@ -1,12 +1,8 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/01671f42-0d49-4e2a-93db-1b7c7b46c23c" align="left" width="200"/>
 
-<!--
+### `Lumify Systems`
+Bring light to your vision
+We turn your ideas into digital reality through programming.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://lumify.systems/contact">Contact us</a> ·
+<a href="https://lumify.systems/">Website</a>
